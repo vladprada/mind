@@ -1,0 +1,27 @@
+body {
+    background-color: #BFE9F0;
+}
+
+img {
+    margin-left: 1244px;
+    position: relative top: -5px;
+}
+
+h1 {
+    
+    margin-top: 13px;
+    margin-left: 32px;
+    font-family: Inter;
+    color: #ffffff;
+    font-weight: 600;
+    font-size: 96px;
+}
+
+p {
+    margin-top: 10px;
+    margin-left: 32px;
+    font-family: Inter;
+    color: #ffffff;
+    font-weight: 400;
+    font-size: 32px;
+}
